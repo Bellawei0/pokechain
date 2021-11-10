@@ -4,9 +4,13 @@ San Jose State University
 Fall 2021
 
 Written by:
+
         Jason Huynh
+        
         Justin Zhu
+        
         Thai Quach
+        
         Bella Wei
 
 ## Set up A Development Environment for NFTS
